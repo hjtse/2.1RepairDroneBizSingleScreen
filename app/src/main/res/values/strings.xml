@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="padding">4dp</dimen>
+    <color name="black">@android:color/black</color>
+    <string name="app_name">RepairDroneBizSingleScreen</string>
+    <string name="radweb">RepairADrone.com</string>
+    <string name="rad">Repair A Drone</string>
+    <string name="address">Hartford, CT 06109</string>
+    <string name="email">admin@repairadrone.com</string>
+    <string name="phone">559-426-5873</string>
+</resources>
